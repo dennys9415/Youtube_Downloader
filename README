@@ -1,0 +1,19 @@
+MAIN1.PY
+Is an Python API for downloading videos.
+That downloads you own Playlist and youtube playlist; and download only just one video dependes of the link.
+Note: The information only show if is just one video, not a playlist.
+
+program that is required is youtube_dl:
+*pip3 install youtube_dl
+
+MAIN2.PY 
+Is an Python program that will run a command.
+That does the same as main1.py, it only changes that run a command, which has to be installed in the computer.
+
+command for installing in linux:
+*sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+*sudo chmod a+rx /usr/local/bin/youtube-dl
+
+
+LINK of Youtube-dl GITHUB repository for more information:
+*https://github.com/ytdl-org/youtube-dl
